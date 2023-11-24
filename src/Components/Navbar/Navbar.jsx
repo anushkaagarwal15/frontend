@@ -15,7 +15,7 @@ const [menu,setMenu] = useState("shop");
     <div className='navbar'>
       <div className='nav-logo'>
         <img src={logo} alt="" />
-        <p>BOOKIFY</p>
+        <p>SHOPPER</p>
         
       </div>
 
